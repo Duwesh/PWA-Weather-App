@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a beautiful progressive web app where you can fetch data from api and get the latest and real time wether data and you can download this is app also.
+This is a basic app which will introduce you to the world of progressive web app.
 
 ### [Live Site](free-weather-gyan.netlify.app)
 
