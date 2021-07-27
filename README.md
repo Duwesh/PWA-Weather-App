@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### [Live Site] (free-weather-gyan.netlify.app)
+### [Live Site](free-weather-gyan.netlify.app)
 
 ## Available Scripts
 
