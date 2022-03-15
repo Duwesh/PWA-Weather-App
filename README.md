@@ -12,6 +12,7 @@ Front-end
 - EJS
 - CSS3
 - ReactJS
+- API
 
 # Snapshots
 ![Screenshot (37)](https://user-images.githubusercontent.com/67849097/158363516-e0712360-4b21-481f-90dd-2b8c55af94e8.png)
