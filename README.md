@@ -1,9 +1,30 @@
-# Getting Started with Create React App
+# PWA(Weather App)
 
 This is a beautiful progressive web app where you can fetch data from api and get the latest and real time wether data and you can download this is app also.
 This is a basic app which will introduce you to the world of progressive web app.
 
 ### [Live Site](https://free-weather-gyan.netlify.app)
+
+
+# Tech Stack
+
+Front-end
+- EJS
+- CSS3
+- ReactJS
+
+# Snapshots
+![Screenshot (37)](https://user-images.githubusercontent.com/67849097/158363516-e0712360-4b21-481f-90dd-2b8c55af94e8.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/67849097/158363501-a7dd3fec-ae8a-4361-99ce-826e5e5183c5.png)
+
+
+# Fully Responsive
+![Screenshot (40)](https://user-images.githubusercontent.com/67849097/158363481-26363d1b-ceb7-46fc-8029-53dea8ff692d.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/67849097/158363489-59c393f2-5dac-4664-9311-e8fb04964318.png)
+
+
+# Deploy Link
+https://free-weather-gyan.netlify.app/
 
 ## Available Scripts
 
